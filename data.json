@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design homepage",
+      "description": "Include hero secrtion",
+      "column": "backlog",
+      "status": "low"
+    },
+    {
+      "id": "4",
+      "title": "Add footer links",
+      "description": "Privacy, Terms, Contact",
+      "column": "review",
+      "status": "low"
+    },
+    {
+      "id": "6",
+      "title": "Setup database schema",
+      "description": "Tables for users and tasks",
+      "column": "done",
+      "status": "high"
+    },
+    {
+      "id": "7",
+      "title": "Write unit tests",
+      "description": "Test task CRUD operations",
+      "column": "in-progress",
+      "status": "medium"
+    },
+    {
+      "id": "9",
+      "title": "Integrate analytics",
+      "description": "Add Google Analytics tracking",
+      "column": "in-progress",
+      "status": "medium"
+    },
+    {
+      "id": "10",
+      "title": "Setup ESLint & Prettier",
+      "description": "Maintain code style",
+      "column": "done",
+      "status": "high"
+    },
+    {
+      "id": "mvjyYCrMtBM",
+      "title": "what s",
+      "description": "skjdksjfljkf",
+      "column": "backlog",
+      "status": "high"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
